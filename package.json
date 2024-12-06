@@ -1,0 +1,11 @@
+{
+    "name": "sn.theme.doczook",
+    "version": "1.0.1",
+    "sn": {
+        "main": "theme.css"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/tmummert/sn-theme-doczook.git"
+    }
+}
