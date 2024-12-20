@@ -7,10 +7,10 @@ metatype: json
     "name": "DocZook",
     "content_type": "SN|Theme",
     "area": "themes",
-    "version": "1.0.5",
+    "version": "1.0.7",
     "description": "The Midnight theme with JetBrains Mono font",
-    "url": "https://raw.githubusercontent.com/tmummert/sn-theme-doczook/master/theme.css",
-    "download_url": "https://github.com/tmummert/sn-theme-doczook/archive/refs/tags/1.0.5.zip",
+    "url": "https://raw.githubusercontent.com/tmummert/sn-theme-doczook/master/main.css",
+    "download_url": "https://github.com/tmummert/sn-theme-doczook/archive/refs/tags/1.0.7.zip",
     "marketing_url": "https://github.com/tmummert/sn-theme-doczook",
     "latest_url": "https://listed.to/p/BSC8Us49ce",
     "dock_icon": {

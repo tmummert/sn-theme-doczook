@@ -1,9 +1,9 @@
 {
     "name": "sn.theme.doczook",
-    "version": "1.0.6",
-    "main": "theme.css",
+    "version": "1.0.7",
+    "main": "main.css",
     "sn": {
-        "main": "theme.css"
+        "main": "main.css"
     },
     "repository": {
         "type": "git",
