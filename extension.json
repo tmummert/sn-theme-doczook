@@ -1,0 +1,22 @@
+---
+metatype: json
+---
+
+{
+    "identifier": "com.github.tmummert.sn-theme-doczook",
+    "name": "DocZook",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "version": "1.0.5",
+    "description": "The Midnight theme with JetBrains Mono font",
+    "url": "https://raw.githubusercontent.com/tmummert/sn-theme-doczook/master/theme.css",
+    "download_url": "https://github.com/tmummert/sn-theme-doczook/archive/refs/tags/1.0.5.zip",
+    "marketing_url": "https://github.com/tmummert/sn-theme-doczook",
+    "latest_url": "https://listed.to/p/BSC8Us49ce",
+    "dock_icon": {
+        "type": "circle",
+        "background_color": "#179fd9",
+        "foreground_color": "#ffffff",
+        "border_color": "#ffffff"
+    }
+}
