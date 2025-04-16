@@ -7,16 +7,16 @@ metatype: json
     "name": "DocZook",
     "content_type": "SN|Theme",
     "area": "themes",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "A Rosé Pine fork",
     "url": "https://raw.githubusercontent.com/tmummert/sn-theme-doczook/master/main.css",
-    "download_url": "https://github.com/tmummert/sn-theme-doczook/archive/refs/tags/1.1.0.zip",
+    "download_url": "https://github.com/tmummert/sn-theme-doczook/archive/refs/tags/1.1.1.zip",
     "marketing_url": "https://github.com/tmummert/sn-theme-doczook",
     "latest_url": "https://listed.to/p/BSC8Us49ce",
     "dock_icon": {
         "type": "circle",
-        "background_color": "#31748f",
-        "foreground_color": "#f6c177",
-        "border_color": "#f6c177"
+        "background_color": "#d7827e",
+        "foreground_color": "#ffffff",
+        "border_color": "#ffffff"
     }
 }
