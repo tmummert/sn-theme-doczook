@@ -1,15 +1,15 @@
 :root {
-    --background: #282a36;
-    --current-line: #44475a;
-    --foreground: #f8f8f2;
-    --comment: #6272a4;
-    --red: #ff5555;
-    --orange: #ffb86c;
-    --green: #50fa7b;
+    --background: #191724;
+    --current-line: #908caa;
+    --foreground: #e0def4;
+    --comment: #6e6a86;
+    --red: #eb6f92;
+    --orange: #ebbcba;
+    --green: #31748f;
     --pink: #ff79c6;
-    --purple: #bd93f9;
-    --cyan: #8be9fd;
-    --yellow: #f1fa8c;
+    --purple: #c4a7e7;
+    --cyan: #9ccfd8;
+    --yellow: #f6c177;
     --bar-color: rgb(32, 34, 49);
     --darker-background: rgb(25, 26, 33);
     --darker-background-border: rgb(32, 34, 49);
