@@ -1,6 +1,6 @@
 {
     "name": "sn.theme.doczook",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "main": "main.css",
     "sn": {
         "main": "main.css"
