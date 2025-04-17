@@ -7,10 +7,9 @@ metatype: json
     "name": "DocZook",
     "content_type": "SN|Theme",
     "area": "themes",
-    "version": "1.1.2",
+    "version": "1.1.3",
     "description": "A Rosé Pine fork",
     "url": "https://raw.githubusercontent.com/tmummert/sn-theme-doczook/master/main.css",
-    "download_url": "https://github.com/tmummert/sn-theme-doczook/archive/refs/tags/1.1.2.zip",
     "marketing_url": "https://github.com/tmummert/sn-theme-doczook",
     "latest_url": "https://listed.to/p/BSC8Us49ce",
     "dock_icon": {
